@@ -8,6 +8,6 @@
   "esmodules": ["scripts/container.js"],
   "systems": ["castles-and-crusades"],
   "url": "https://github.com/augustolimads/castles-foundry",
-  "manifest": "https://raw.githubusercontent.com/augustolimads/castles-foundry/main/module.json",
-  "download": "https://github.com/augustolimads/castles-foundry/archive/refs/heads/main.zip"
+  "manifest": "https://raw.githubusercontent.com/augustolimads/castles-foundry/refs/heads/master/module.json",
+  "download": "https://github.com/augustolimads/castles-foundry/archive/refs/heads/master.zip"
 }
