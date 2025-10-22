@@ -6,8 +6,6 @@
   "authors": [{ "name": "Augusto Lima" }],
   "compatibility": { "minimum": "12", "verified": "12" },
   "esmodules": ["scripts/container.js"],
-  "packs": [],
-  "dependencies": [{ "id": "castles-and-crusades" }],
   "systems": ["castles-and-crusades"],
   "url": "https://github.com/augustolimads/castles-foundry",
   "manifest": "https://raw.githubusercontent.com/augustolimads/castles-foundry/main/module.json",
