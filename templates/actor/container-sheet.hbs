@@ -1,0 +1,17 @@
+<form class="sheet" autocomplete="off">
+  <header class="sheet-header">
+    <h1>{{actor.name}}</h1>
+  </header>
+
+  <section class="sheet-body">
+    <h2>Itens</h2>
+    <ul>
+      {{#each actor.items}}
+        <li>{{this.name}} — EV: {{this.system.ev}}</li>
+      {{/each}}
+    </ul>
+
+    <hr />
+    <strong>Total EV:</strong> {{totalEV}}
+  </section>
+</form>
