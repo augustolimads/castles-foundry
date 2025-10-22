@@ -9,7 +9,7 @@
   "packs": [],
   "dependencies": [{ "id": "castles-and-crusades" }],
   "systems": ["castles-and-crusades"],
-  "url": "https://github.com/seu-usuario/cnc-container",
-  "manifest": "https://raw.githubusercontent.com/seu-usuario/cnc-container/main/module.json",
-  "download": "https://github.com/seu-usuario/cnc-container/archive/refs/heads/main.zip"
+  "url": "https://github.com/augustolimads/castles-foundry",
+  "manifest": "https://raw.githubusercontent.com/augustolimads/castles-foundry/main/module.json",
+  "download": "https://github.com/augustolimads/castles-foundry/archive/refs/heads/main.zip"
 }
